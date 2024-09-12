@@ -21,4 +21,4 @@ Pull requests to add your creative and funny code snipets are welcome but I expe
 I have the [MIT license](./LICENSE.md) on this repository and you can use it for free and for any use cases but **I am NOT resposible to any bugs, issues, or problems caused by these codes.**
 
 # Image Gallery
-Check 👉[Wiki](../wiki)!
+Check 👉[Wiki](../../wiki)!
