@@ -9,6 +9,7 @@ These joking code are shared in my social media as images or videos and follow t
 - [Instagram](https://www.instagram.com/benzookapi/)
 - [TikTok](https://www.tiktok.com/@benzookapi)
 - [YouTube](https://www.youtube.com/@benzookapi)
+- [X (hashtag: #jokecode)](https://x.com/search?q=%23jokecode&src=typed_query&f=live)
 
 Also, I am selling T-shirts and other swags with the design of these joke codes and other sci-fi arts in my following store and supoer happy if you check it out! (hopefully buy them😁)
 
