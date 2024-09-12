@@ -1,4 +1,4 @@
-# WELCOME TO JOKE CODE REPOSITORY!🧑‍💻
+# WELCOME TO JOKE CODE, A PROGRAMMING POEM🧑‍💻
 
 ## TLDR;
 This repository has funny code snipets which describe (= `implement` in programing term) to enjoy code as joke and **DESIGN** as 
