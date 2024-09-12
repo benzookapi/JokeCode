@@ -4,7 +4,7 @@
 This repository has funny code snipets which describe (= `implement` in programing term) to enjoy code as joke and **DESIGN** as 
 images (the autor belives source codes in editor could work as beautiful art itself).
 
-These joking code are shared in the following social media as images or videos and follow them to enjoy fun bites😀
+These joking code are shared in my social media as images or videos and follow them to enjoy fun bites😀
 
 - [Instagram](https://www.instagram.com/benzookapi/)
 - [TikTok](https://www.tiktok.com/@benzookapi)
