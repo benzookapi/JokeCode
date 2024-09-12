@@ -6,13 +6,13 @@ images (the autor belives source codes in editor could work as beautiful art its
 
 These joking code are shared in the following social media as images or videos and follow them to enjoy fun bites😀
 
-- [Instagram]()
-- [TikTok]()
-- [YouTube]()
+- [Instagram](https://www.instagram.com/benzookapi/)
+- [TikTok](https://www.tiktok.com/@benzookapi)
+- [YouTube](https://www.youtube.com/@benzookapi)
 
-Also, I am selling T-shirts and other aparells with the desing of these joke codes and other my sci-fi arts in the following store and supoer happy if you check it out! (hopefully buy them😁)
+Also, I am selling T-shirts and other swags with the design of these joke codes and other sci-fi arts in my following store and supoer happy if you check it out! (hopefully buy them😁)
 
-- [BENZOOKAPI STORE]()
+- [BENZOOKAPI STORE](https://benzookapi.com/)
 
 # Pull requests are welcome
 Pull requests to add your creative and funny code snipets are welcome but I expect them to be a single source code file (I am not stick to JavaScript!) per one theme, and be runnable alone without any extra files. Note that your merged codes are supposed to be shared in the social media above (if you share your social media ID in the pull request, **I mention you respectfully as the original source**). 
