@@ -15,7 +15,8 @@ function simulateHiggsBosonMovement() {
         higgsBoson.z += (Math.random() - 0.5) * 2;
 
         // Log the new position
-        console.log(`Higgs Boson Position -> x: ${higgsBoson.x.toFixed(2)}, y: ${higgsBoson.y.toFixed(2)}, z: ${higgsBoson.z.toFixed(2)}`);
+        console.log(`Higgs Boson Position -> x: ${higgsBoson.x.toFixed(2)}, 
+          y: ${higgsBoson.y.toFixed(2)}, z: ${higgsBoson.z.toFixed(2)}`);
     }
 
     // Return the Higgs boson object and the update function
