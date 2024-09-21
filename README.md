@@ -5,7 +5,7 @@ _Programming source code is runnable poem_
 This repository has funny code snipets which describe (= `implement` in programing term) to enjoy code as joke and **DESIGN** as 
 images (the autor belives source codes in editor could work as beautiful art itself).
 
-These joking code are shared in my social media as images or videos and follow them to enjoy fun bites😀
+These joking code are shared in my social media as images or videos and follow them to enjoy fun bites.
 
 - [TikTok](https://www.tiktok.com/@benzookapi)
 - [YouTube](https://www.youtube.com/@benzookapi)
